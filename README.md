@@ -109,8 +109,8 @@ matplotlib
 seaborn
 Power BI:
 
-Power BI Desktop (free)
+Power BI Desktop
 
 ✍️ Author
-Created by [Your Name]
+Created by [komal prasad saini]
 Feel free to fork, extend, or reach out with suggestions!
